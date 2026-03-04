@@ -1,7 +1,6 @@
 VOT Travel – EV Charging Station Finder App ⚡
 
 📌 Overview:
-
 VOT Travel is a mobile application designed to help electric vehicle users easily locate nearby charging stations, check real-time availability, and plan their trips efficiently.
 
 ❗ Problem:
